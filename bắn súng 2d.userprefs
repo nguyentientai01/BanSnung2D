@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\controler.cs">
+    <Files>
+      <File FileName="Assets\scripts\controler.cs" Line="111" Column="2" />
+      <File FileName="Assets\scripts\menuGame\menuGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\destroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\boss\blueBoss.cs" Line="45" Column="5" />
+      <File FileName="Assets\scripts\boss\greenBoss.cs" Line="44" Column="37" />
+      <File FileName="Assets\scripts\bulet.cs" Line="24" Column="4" />
+      <File FileName="Assets\scripts\player\playerMoving.cs" Line="25" Column="2" />
+      <File FileName="Assets\scripts\player\health.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\boom.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\coin.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\ninjaBox.cs" Line="12" Column="17" />
+      <File FileName="Assets\scripts\boss\nịnaBoss.cs" Line="40" Column="43" />
+      <File FileName="Assets\scripts\audio.cs" Line="20" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
